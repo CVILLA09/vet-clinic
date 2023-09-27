@@ -58,7 +58,7 @@ This project primarily uses SQL for database management.
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
+   <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
