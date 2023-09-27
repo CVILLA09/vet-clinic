@@ -183,7 +183,7 @@ Thanks to all <img src="https://assets-global.website-files.com/5dbb30f00775d4c3
 
 - **How do I set up the database locally?**
 
-  - You can run the SQL scripts in a local MySQL environment to set up the database.
+  - You can run the SQL scripts in a local PostgreSQL environment to set up the database.
 
 - **How can I run the SQL queries?**
 
