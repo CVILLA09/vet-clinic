@@ -43,6 +43,9 @@ CREATE TABLE specializations (
   PRIMARY KEY (vet_id, species_id)
 );
 
+-- Add unique constraint to animals table
+ALTER TABLE animals ADD CONSTRAINT animals_unique_id UNIQUE (id);
+
 -- Create the visits table
 CREATE TABLE visits (
   animal_id INTEGER REFERENCES animals(id),
